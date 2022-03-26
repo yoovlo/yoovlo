@@ -1,0 +1,20 @@
+kafka.brokers=127.0.0.1:9092
+kafka.cons.threads_num=1
+kafka.cons.group.id=events_proc_cons
+kafka.con.threads_num_max=1
+kafka.topic=events_main
+kafka.prds.threads_num=1
+#request server
+rs.url=
+spring.autoconfigure.exclude=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration, org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration
+#this is the spring http port
+server.port=1356
+#cadence
+cdnc.host=127.0.0.1
+cdnc.port=7933
+cdnc.domain=m1
+#temporal
+tmpl.host=127.0.0.1
+tmpl.port=7233
+#namespace
+tmpl.ns=m1

@@ -1,0 +1,8 @@
+nodiex.shr: nodiex shared
+meta: meta refers to the fact that this package provides internal, infrastructure level logic to the application, as opposed to logic implementing the functionality of the application
+meta.dpl: deployment
+dpl.cs: compute structure
+events.cdnc: cadence
+events.tmpl: temporal
+tmpl.req_wf: request workflow
+shr.ser: serialization

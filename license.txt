@@ -1,0 +1,162 @@
+PLEASE READ CAREFULLY THIS LICENSE AGREEMENT (THIS "AGREEMENT"), WHICH
+CONSTITUTES A LEGALLY BINDING AGREEMENT AND GOVERNS ALL OF YOUR USE OF ALL OF
+THE YOOVLO SOFTWARE WITH WHICH THIS AGREEMENT IS INCLUDED ("YOOVLO SOFTWARE")
+THAT IS PROVIDED IN SOURCE OR OBJECT CODE FORMAT. BY INSTALLING OR USING ANY OF THE 
+YOOVLO SOFTWARE GOVERNED BY THIS AGREEMENT, YOU ARE ASSENTING TO THE TERMS AND 
+CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE WITH SUCH TERMS AND CONDITIONS, 
+YOU MAY NOT INSTALL OR USE THE YOOVLO SOFTWARE GOVERNED BY THIS AGREEMENT. 
+IF YOU ARE INSTALLING OR USING THE SOFTWARE ON BEHALF OF A LEGAL ENTITY, YOU REPRESENT 
+AND WARRANT THAT YOU HAVE THE ACTUAL AUTHORITY TO AGREE TO THE TERMS AND CONDITIONS 
+OF THIS AGREEMENT ON BEHALF OF SUCH ENTITY.
+
+Yoovlo Community License (Yoovlo CL) Agreement
+The Yoovlo Community License Agreement Version 1.0 (the “Agreement”) sets forth the terms on which Vagif Kuliyev (“Yoovlo”) makes available the Yoovlo Software Source Code, Object Code and accompanying Documentation (the “Software”). By installing, downloading, accessing, using or distributing any of the Software, you agree to the terms and conditions of this Agreement. If you do not agree to such terms and conditions, you must not use the Software. If you are receiving the Software on behalf of a legal entity, you represent and warrant that you have the actual authority to agree to the terms of and conditions of this Agreement on behalf of such entity. "Licensee" means you, an individual, or the entity on whose behalf you are receiving the Software. 
+
+This Agreement is entered into by and between Vagif Kuliyev ("Yoovlo") and you or the legal entity on whose behalf you are accept this Agreement ("Licensee", "You").
+
+1. Governing Licenses
+
+1.1 Software Publication and Formats
+The Software Source Code, Object Code and Documentation are made available exclusively on Github.com and Yoovlo.com. The use of the Software, in both its Source Code and Object Code forms, is governed by this Agreement. 
+
+1.2 License Rights of Customers of Licensee in Usage of the Software
+As set forth below, the use of this Software by Customers of Licensee in the event of Transfer of Software or usage of the Software to Run Services for Third Party Users will be subject to the most current version of this Agreement. Transfer of the Software does not grant you or the entity that receives the Software, any rights except those specified in this Agreement. The right to transfer the Software is restricted except as specified in this agreement. 
+
+2. Grant of License
+
+2.1 Reservation of Rights
+As between Yoovlo and You, Yoovlo and its licensors own all right, title, and interest in and to the Software, and except as expressly set forth in Sections 2.2, 2.3 and 2.4 of this Agreement, no other license to the Software is granted to You under this Agreement, by implication, estoppel or otherwise. You agree not to: 
+	2.1.1 Reverse engineer or decompile, decrypt, disassemble or otherwise reduce any Software provided to You in Object Code, or any portion thereof, to Source Code, except and only to the extent any such restriction is prohibited by applicable law.
+	2.1.2 Except as expressly permitted in Sections 2.2, 2.3 and 2.4, prepare derivative works from, modify, copy or use the Software Object Code or Source Code in any manner.
+	2.1.3 Except as expressly permitted in Sections 2.2, 2.3 and 2.4, transfer, sell, rent, lease, distribute, sublicense, loan or otherwise transfer, Software Object Code or Source Code, in whole or in part, to any Third Party User.
+	2.1.4 Use the Software for providing time-sharing services, any software-as-a-service, service bureau services or as part of an application services provider or other service offering (collectly, "SaaS Offering") where obtaining access to the Software or the features and functions of the Software is a primary reason or substantial motivation for users of the SaaS Offering to access and/or use the SaaS Offering ("Prohibited SaaS Offering").
+	2.1.5 Circumvent the limitations on use of the Software provided to You in Object Code format that are imposed or preserved by any License Key
+	2.1.6 Alter or remove any Marks and Notices in the Software. 
+	2.1.7 If you have any questions as to whether a specific SaaS Offering constitutes a Prohibited SaaS Offering, or are interested in obtaining Yoovlo's permission to engage in commercial or non-commercial distribution of the Software, for which rights are not granted in this Agreement, please contact admin@nodiex.com.
+
+2.2 Grant of Rights
+Conditioned upon compliance with all of the terms and conditions of this Agreement, Yoovlo grants to You, at no charge and for as long as You are not in breach of any provision of this Agreement, the following limited, non-exclusive, non-transferable, fully paid up royalty free rights and license to Usage of the Software as specified in Sections 2.2, 2.3 and 2.4, without the right to grant or authorize sublicenses. 
+
+2.3 Usage of the Software
+This license grants rights to use the Software in the following ways: Run Internally in Development, Run Internally in Production, Transfer and Run Services for Third Party Users, with the following restrictions:
+	The Licensee is restricted from using the Software to:
+		1. Run Services for Third Party Tenant Users
+		2. Run a Competing Service
+The definitions for Run Internally in Development, Run Internally in Production, Transfer, Run Services for Third Party Users, Run Services for Third Party Tenant Users and Run a Competing Service are found below. 
+
+2.4 Third Party Open Source Software
+The Software may contain or be provided with third party open source libraries, components, utilities and other open source software (collectively, "Open Source Software"), which may have applicable license terms as identified on a website designated by Yoovlo. Notwithstanding anything to the contrary herein, use of the Open Source Software shall be subject to the license terms and conditions applicable to such Open Source Software, to the extent required by the applicable licensor (which terms shall not restrict the license rights granted to You hereunder, but may contain additional rights). To the extent any condition of this Agreement conflicts with any license to the Open Source Software, the Open Source Software license will govern with respect to such Open Source Software only. Yoovlo may also separately provide you with certain open source software that is licensed by Yoovlo. Your use of such Yoovlo open source software will not be governed by this Agreement, but by the applicable open source license terms.
+
+3. Definitions
+3.1 Employee:
+	A person who is recognized by the governing state of the Licensee, as employeed by the Licensee. 
+3.2 Contractor:
+	A person or legal, corporate entity, who is recognized by the governing state of the Licensee, as a contractor of the Licensee, is contracted to perform work on behalf of the Licensee, and only to the extent that such Contractor is performing work on behalf of the Licensee. 
+3.4 Internal Users:
+	Employees or Contractors of the Licensee. 
+3.5 Third Party Users:
+	Users other than Employees or Contractors of the Licensee. 
+3.6 Execute:
+	To run the instructions encoded by the Software Source Code or Object Code on a computing device, irregardless of the form of the computing device (hardware, virtualized, cloud, serverless, functional or other). 
+3.7 Development:
+	Executing in a debugging environment or with debugging toolsets, executing for the purposes of integrating with other software, executing for the purposes of understanding the performance characteristics of the Software, executing for the purposes of understanding the datastructure of the Software, executing for the purpose of understanding the functionality of the Software, executing for the purpose of verifying th validity of the Software or integrations in which the Software is present.
+3.8 Production:
+	Executing in the computing environments that service business data or service Third Party Users' data. 
+3.9 Run in Development:
+	Execute the Object Code (as provided or built from Source if available) or Source Code of the Software, for the purposes of Development, and other than for Production or Reverse Engineering purposes. 
+3.10 Run Internally in Development:
+	To Run in Development for Internal Users by limiting the operations of the Software to exclusively serve Internal Users and limiting access to the Software to Internal Users. 
+3.11 Run in Production:
+	Execute the Object Code (as provided or built from Source if available) or Source Code of the Software for the purposes of Production, and other than for Development, or Reverse Engineering purposes. 
+3.12 Run Internally in Production:
+	To Run in Production for Internal Users by limiting the operations of the Software to exclusively serve Internal Users and limiting access to the Software to Internal Users. 
+3.13 Distribution: 
+	Distribution is identified by 4 kinds of actions: Transfer, Run Services for Third Party Users, Run Services for Third Party Tenant Users, Run a Competing Service. 
+	3.13.1 Transfer:
+		The meaning of Transfer is to publish, sell, rent, lease, sublicense, or loan the Software (Software Source, Object Code or Documentation) to a Third Party User (a user that is not an Employee or Contractor of the Licensee). Any Transfer of the Software Source Core, Object Code or Documentation must include this Agreement. 
+	3.13.2 Run Services for Third Party Users:
+		The meaning of Run Services for Third Party Users is to use the Software Source or Object Code (as provided or built from Source), to run, for a user outside the Licensee, any computing service. 
+	3.13.3 Run Services for Third Party Tenant Users:
+		The meaning of Run Services for Third Party Tenant Users is to:
+			Use the Software Source or Object Code (as provided or built from Source), to run, in any tenant topology, for Third Party Users, any computing service. 
+			The following are, but are not the only, Tenant Topologies:
+			1. The Software is allocated onto compute resources (hardware, cloud, virtualized or otherwise) where the datastores and compute resources are allocated specifically for the exclusive use of individual tenants.
+			2. The Software is not provisioned per tenant but run on a shared cluster, but is used to serve tenants that are implemented in a higher level datastructure. 
+				a) The resources used by the tenants may or may not be tracked. 
+				b) The tenants have the capability to use the Software directly (by using the Software UI, Software CLI, sending requests to Software endpoints, directly or indirectly through a wrapper, or where the tenant is primarily a software middleware customer) in whole or in part to manage the lifecycle of their data independently. 
+				c) A tenant is defined as a user who has independent, isolated access to the resources implemented by this Software. The isolation need not be implemented at the level of hardware, virtualization, cloud resources or some other distinct method: it can be implemented in data with authorization and data topology constraints on operations.
+	3.13.4 Run a Competing Service:
+		The meaning of Run a Competing Service is:
+			1. To Run Services for Third Party Tenant Users, a service for providing time-sharing services, any software-as-a-service, service bureau services or as part of an application services provider or other service offering (collectively, "SaaS Offering") where obtaining access to the Software or the features and functions of the Software is a primary reason or substantial motivation for users of the SaaS Offering to access and/or use the SaaS Offering. 
+			2. To Run Services for Third Party Tenant Users, a commercial offering that allows Third Party Users to access the functionality of the Software, so that such Third Party Users directly benefit from the Enumerated Categories of Features of the Software. 
+3.14 Enumerated Categories of Features:
+	This is a list of categories of features that this Software is providing. This list is used to restrict what is considered a Competing Service. This list may be reflective of how software features are categorized for consumption by end users, in that the Software may offer signficant features beyond this list, but may have an intent of serving end users in these particular categories. 
+		1. Implementation, Provisioning or Management of Event Processing Systems
+		2. Implementation, Provisioning or Management of Event Processing Systems Implemented by Interpretting, Consuming or otherwise Processing Data from Third Party Communications, including but not Limited to Messaging, Message Queues, Notifications, Pub/Sub Communications, Network Requests
+		3. Implementation, Provisioning or Management of Message Queues
+		4. Implementation, Provisioning or Management of Pub/Sub Communications 
+		5. Implementation, Provisioning or Management of Workflows Systems
+		6. Implementation, Provisioning or Management of Low Code Systems
+		7. Implementation, Provisioning or Management of No Code Systems
+		8. Implementation, Provisioning or Management of Graph Based Logic Systems for Low or No Code Software Creation
+		9. Implementation, Provisioning or Management of Graph Based Logic Systems for Workflow Systems
+		10. Implementation, Provisioning or Management of Graph Based Logic Systems for Event Processing Systems
+3.15 Perpetual: A License that is prefixed with this descriptor is valid for all time for all the rights granted by the original time-constrained license.
+
+4. Termination
+
+4.1 Breach of Terms
+This Agreement will automatically terminate, whether or not You receive notice of such Termination from Yoovlo, if You breach any of its provisions.
+
+4.2 Post Termination
+Upon any termination of this Agreement, for any reason, You shall promptly cease the use of the Software.
+
+4.3 Limitation of Liability in th Event of Termination
+In accordance with Section 6 below, Yoovlo shall have no liability for any damage, loss, or expense of any kind, whether consequential, indirect, or direct, suffered or incurred by You arising from or incident to the termination of this Agreement, whether or not Yoovlo has been advised or is aware of any such potential damage, loss, or expense.
+
+4.4 Survival
+Upon any termination of this Agreement the following Sections shall survive termination or expiration of this Agreement:
+	1.1 Software Publication and Formats
+	1.2 License Rights to Customers of Licensee
+	2.1 Reservation of Rights
+	3 Definitions
+	4.3 Limitation of Liability in the Event of Termination
+	5 Disclaimer of Warranties
+	6 Limitation of Liability
+	7.1 Complete Agreement
+	7.3 Governing Law
+	7.4 Unenforceability
+	7.5 Injunctive Relief
+	7.6 Assignment
+
+5. Disclaimer of Warranties
+To the maximum extent permitted under applicable law, the Software is provided "As is" without warranty of any kind, and Yoovlo and its licensors make no warranties whether expressed, implied or statutory regarding or releating to the Software. To the maximum extent permitted under applicable law, Yoovlo and its licensors specifically disclaim all implied warranties of merchantability, fitness for a particular purpose and non-infringement with respect to the Software, and with respect to the use of the foregoing. Without limiting the foregoing, Yoovlo makes no warranty or rerpesenttation as to the reliability , timeliness, quality suitability, profitability, support, performance, loss of use or loss of data, availabilty, or accuracy of the Software. Further, Yoovlo does not warrant results or that the Software will be error free or that tht use of the Software will be uninterrupted. 
+
+6. Limitation of Liability
+To the maximum extent permitted under applicable law, in no event shall Yoovlo or its licensors be liable to you or any third party for any direct or indirect damages, including but not limited to any loss of profits or revenue, loss of use, business interruption, loss of data, cost of cover or substitute goods or services, or for any special, incidental, consequential, punitive, or examplary damages of any kind, however caused, related to, or arising out this Agreement, its termination or the performance or failure to perform this Agreement, or the use or inability to use the Software, whether alleged as a breach of contract, breach of warranty, tortious conduct, including negligence, or any other legal theory, even if Yoovlo has been advised or aware of the possbility of such damages. 
+
+7. General
+
+7.1 Complete Agreement
+This Agreement completely and exclusively states the entire agreement of the parties regarding the subject matter hereof and supersedes all prior proposals, agreements, or other communications between the parties, oral or written, regarding such subject matter.
+
+7.2 Modification
+This Agreement may be modified by Yoovlo from time to time, and any such modifications will be effective upon the "Posted Date" set forth at the top of the modified Agreement.
+
+7.3 Governing Law
+This Agreement shall be governed by and construed solely under the laws of the State of Maryland of the United States of America, without application of any choice of law rules or principles that would lead to the applicability of the law of any other jurisdiction. None of the provisions of either the United Nations Convention on Contracts for the International Sale of Goods or the Uniform Computer Information Transactions Act shall apply. The parties hereby irrevocably waive any and all claims and defenses either might otherwise have in any such action or proceeding in any of such courts based upon any alleged lack of personal jurisdiction, improper venue, forum non conveniens or any similar claim or defense.
+
+7.4 Unenforceability. 
+If any provision of this Agreement is held unenforceable, the remaining provisions of this Agreement shall remain in effect and the unenforceable provision shall be replaced by an enforceable provision that best reflects the original intent of the parties.
+
+7.5 Injunctive Relief
+You acknowledge that a breach or threatened breach of any provision of this Agreement will cause irreparable harm to Yoovlo for which damages at law will not provide adequate relief, and Yoovlo shall therefore be entitled to injunctive relief against such breach or threatened breach without being required to post a bond.
+
+7.6 Assignment. 
+You may not assign this Agreement, including by operation of law in connection with a merger or acquisition or otherwise, in whole or in part, without the prior written consent of Yoovlo, which Yoovlo may grant or withhold in its sole and absolute discretion. Any assignment in violation of the preceding sentence is void.
+
+7.7 Independent Contractors
+The parties to this Agreement are independent contractors and this Agreement does not establish any relationship of partnership, joint venture, employment, franchise, or agency.
+
+7.8 U.S. Government Rights
+The Software and related documentation are "Commercial Items", as that term is defined at 48 C.F.R. §2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation," as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable, and are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions of this Agreement.
